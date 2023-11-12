@@ -1,0 +1,33 @@
+# PROJECT PLAN
+
+## Objective
+ - To come up with an app that takes message components and uses them to come up with random messages
+ - To publish the app via GitHub
+
+## Brainstorm (Idea + 3 components)
+ - ** Random weather generator **
+    - Temperature (Low and High)
+    - Cloudy (true/false)
+    - Day and date
+    - Silly condition description/activity suggestions
+
+- ** Fortune teller **
+    - Luck rating (numerical between 1 and 10)
+    - Achieve today's goals? (true/false)
+    - Generic fortune
+
+- ** Animal messages **
+    - Type of Animal
+    - Message in animal language
+    - Message translated to English
+    - Animal wants a treat? (true/false)
+    - How many treats? (1-3)
+
+## Project Details (Fortune Teller)
+
+### To do
+    - Get a list of generic fortunes
+    - Come up with a generic message structure
+    - Write the pseudocode
+    - Translate into actual script
+    - Commit to the git
